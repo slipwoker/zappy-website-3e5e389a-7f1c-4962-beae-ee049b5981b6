@@ -1,0 +1,61 @@
+# קואלה צלמים — Generative Engine Optimization Map
+
+> A צילום ואירועים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-3e5e389a.zappy5.app
+צלם חתונות מומלץ בישראל המתמחה בצילום חופה וריקודים. הזמינו ייעוץ חינם עוד היום!
+
+### שירותי צילום
+https://-3e5e389a.zappy5.app/services
+צילום חתונה חופה וריקודים מקצועי. חבילות צילום מותאמות אישית לכל זוג. צלם חתונות מומלץ בישראל.
+
+### תיק עבודות
+https://-3e5e389a.zappy5.app/portfolio
+צפו בתיק העבודות המקצועי שלנו. גלריות תמונות מחתונות שצילמנו. צלם חתונות מומלץ בישראל.
+
+### אודות
+https://-3e5e389a.zappy5.app/about
+הכירו את הצוות המקצועי שלנו. צלם חתונות מומלץ בישראל עם ניסיון של שנים בצילום חתונות ואירועים.
+
+### צור קשר
+https://-3e5e389a.zappy5.app/contact
+צרו קשר עם צלם חתונות מומלץ בישראל. קבלו ייעוץ חינם והצעת מחיר מותאמת אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3e5e389a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3e5e389a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3e5e389a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קואלה צלמים
+קואלה צלמים is a business in the צילום ואירועים industry.
+
+## Target Audience
+זוגות לקראת חתונה
+
+## Industry
+צילום ואירועים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-3e5e389a.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-3e5e389a.zappy5.app/robots.txt
